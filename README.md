@@ -4,7 +4,7 @@
 ```sh
 faas-cli template pull https://github.com/JadKHaddad/OpenFaaS-Python3-FastAPI-Template
 
-faas-cli new mycfunction --lang python3-fastapi
+faas-cli new mypython3fastapifunction --lang python3-fastapi
 ```
 
 ## Notes
