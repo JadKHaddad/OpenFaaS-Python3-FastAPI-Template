@@ -2,7 +2,7 @@
 
 ## Usage
 ```sh
-faas-cli template pull https://github.com/JadKHaddad/OpenFaaS-C-Template
+faas-cli template pull https://github.com/JadKHaddad/OpenFaaS-Python3-FastAPI-Template
 
 faas-cli new mycfunction --lang python3-fastapi
 ```
